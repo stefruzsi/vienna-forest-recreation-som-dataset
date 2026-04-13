@@ -1,2 +1,2 @@
 # vienna-forest-recreation-som-dataset
-Cleaned dataset for SOM clustering analyses of forest recreation behaviour in Vienna.
+Cleaned dataset for SOM clustering analyses of forest recreation behaviour in Vienna metropolitan area.
